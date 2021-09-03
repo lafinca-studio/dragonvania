@@ -1,4 +1,4 @@
-<a href="https://arthsan.github.io/dragonvania"><h1 align="center"><img src="https://i.udemycdn.com/user/200_H/33027212_4271_5.jpg" width= "50" height="50" alt="Gamedev.tv">DragonVania</img></h1></a>
+<a href="https://lafinca-studio.github.io/dragonvania/"><h1 align="center"><img src="https://i.udemycdn.com/user/200_H/33027212_4271_5.jpg" width= "50" height="50" alt="Gamedev.tv">DragonVania</img></h1></a>
 
 
 <p align="center"><img src="http://pm1.narvii.com/6530/c8f6a612c5e4adda9e6bc4d0afae5a6091158f2a_00.jpg" width = "600" height="400"></p>
@@ -37,7 +37,7 @@ You only have two lifes to finish the game. There are two levels that you can en
 
 You can view my project in your browser:
 
-The game is on GitHub Pages : [DragonVania](https://arthsan.github.io/dragonvania/)
+The game is on GitHub Pages : [DragonVania](https://lafinca-studio.github.io/dragonvania/)
 
 ### Unsolved problems:
 -------------------------
